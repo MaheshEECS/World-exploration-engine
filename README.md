@@ -14,7 +14,7 @@ To begin using the World Exploration Engine, follow these steps:
 
 ### Prerequisites
 Ensure you have the following installed:
-- [Java](https://www.java.com/en/download/) (version X.X or later)
+- [Java](https://www.java.com/en/download/) 
 - [Maven](https://maven.apache.org/download.cgi) (for building the project)
 
 ### Installation
